@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <channels>
-<!-- 0.8W --><channel id="TravelChannel.hu">1:0:1:3F8:1:1:E08318F:0:0:0:</channel><!-- MOZIKLUB -->
+<!-- 0.8W --><channel id="Kolyokklub.hu">1:0:19:7ABA:2CC:600:E080000:0:0:0:</channel><!-- Kolyok Klub -->  
+<!-- 0.8W --><channel id="RTLOtthon.hu">1:0:19:7ABB:2CC:600:E080000:0:0:0:</channel><!-- RTL Otthon -->
+<!-- 0.8W --><channel id="TravelChannel.hu">1:0:1:3F8:1:1:E08318F:0:0:0:</channel><!-- Travel Channel HU -->
 <!-- 0.8W --><channel id="MOZI_KLUB">1:0:16:7ABD:2CC:600:E080000:0:0:0:</channel><!-- MOZIKLUB -->
 <!-- 0.8W --><channel id="SOROZAT_KLUB">1:0:16:7ABC:2CC:600:E080000:0:0:0:</channel><!-- SOROZATKLUB -->
 <!-- 0.8W --><channel id="NASAUHD.us">1:0:1F:68:C:A:E080000:0:0:0:</channel><!-- NASA UHD -->
