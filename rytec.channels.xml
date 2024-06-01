@@ -265,7 +265,7 @@
 <!-- Cable --><channel id="Eurosport1.fr">1:0:1:201:5:1:FFFF0000:0:0:0:</channel><!-- Eurosport 1 -->
 <!-- Cable --><channel id="Eurosport2.be">1:0:19:CC:2:1:FFFF0000:0:0:0:</channel><!-- Eurosport 2 -->
 <!-- Cable --><channel id="ExtremeSports.eu">1:0:1:66E:10:1:FFFF0000:0:0:0:</channel><!-- Extreme Sports -->
-<!-- Cable --><channel id="FashionTV.eu">1:0:1:658:10:1:FFFF0000:0:0:0:</channel><!-- Fashion TV -->
+<!-- Cable --><channel id="FashionTV.eu">1:0:16:7AB0:2CC:600:E080000:0:0:0:</channel><!-- Fashion TV -->
 <!-- Cable --><channel id="FocusTV.be">1:0:19:649:10:1:FFFF0000:0:0:0:</channel><!-- Focus TV -->
 <!-- Cable --><channel id="FOX.be">1:0:19:327:8:1:FFFF0000:0:0:0:</channel><!-- FOX -->
 <!-- Cable --><channel id="France2.fr">1:0:19:909:17:1:FFFF0000:0:0:0:</channel><!-- France 2 -->
@@ -1078,7 +1078,6 @@
 <!-- Cable --><channel id="BBCThree.uk">1:0:1:3ED:A:1:FFFF0000:0:0:0:</channel><!-- BBC Three -->
 <!-- Cable --><channel id="BBCWorldNews.nws">1:0:1:38A:9:1:FFFF0000:0:0:0:</channel><!-- BBC World News -->
 <!-- Cable --><channel id="BFMTV.fr">1:0:1:1F8:5:1:FFFF0000:0:0:0:</channel><!-- BFM TV -->
-<!-- Cable --><channel id="Bloomberg.nws">1:0:1:3EE:A:1:FFFF0000:0:0:0:</channel><!-- Bloomberg -->
 <!-- Cable --><channel id="BVN.be">1:0:1:3F1:A:1:FFFF0000:0:0:0:</channel><!-- BVN -->
 <!-- Cable --><channel id="C8.fr">1:0:1:1F9:5:1:FFFF0000:0:0:0:</channel><!-- C8 -->
 <!-- Cable --><channel id="Canal24Horas.es">1:0:1:70C:12:1:FFFF0000:0:0:0:</channel><!-- Canal 24 Horas -->
@@ -5637,7 +5636,7 @@
 <!-- 0.8W --><channel id="DaVinciLearning.hu">1:0:1:4F6:5:1:E080000:0:0:0:</channel><!-- Da Vinci Learning -->
 <!-- 0.8W --><channel id="DikhTV.hu">1:0:1:5F0:3:1:E080000:0:0:0:</channel><!-- Dikh TV  -->
 <!-- 0.8W --><channel id="DirectOneTV.hu">1:0:1:79E2:2C8:600:E080000:0:0:0:</channel><!-- Direct One TV -->
-<!-- 0.8W --><channel id="DirectOneTV.hu">1:0:19:79E1:2C8:600:E080000:0:0:0:</channel><!-- Direct One TV -->
+<!-- 0.8W --><channel id="DirectOneTV.hu">1:0:19:7A57:2CB:600:E080000:0:0:0:</channel><!-- Direct One TV -->
 <!-- 0.8W --><channel id="DiscoveryChannel.hu">1:0:1:1004:5:1:E080000:0:0:0:</channel><!-- Discovery Channel -->
 <!-- 0.8W --><channel id="DiscoveryChannel.hu">1:0:1:1004:5:1:E082E09:0:0:0:</channel><!-- Discovery Channel -->
 <!-- 0.8W --><channel id="DiscoveryChannel.hu">1:0:19:178E:AF6:BB:E080000:0:0:0:</channel><!-- Discovery Channel -->
@@ -5653,11 +5652,11 @@
 <!-- 0.8W --><channel id="Duna.hu">1:0:1:D20:5:1:E080000:0:0:0:</channel><!-- Duna TV -->
 <!-- 0.8W --><channel id="Duna.hu">1:0:1:D20:5:1:E082E09:0:0:0:</channel><!-- Duna TV -->
 <!-- 0.8W --><channel id="Duna.hu">1:0:19:2336:AF9:BB:E080000:0:0:0:</channel><!-- Duna TV -->
-<!-- 0.8W --><channel id="Duna.hu">1:0:19:7919:2C6:600:E080000:0:0:0:</channel><!-- Duna TV -->
+<!-- 0.8W --><channel id="Duna.hu">1:0:19:7AB8:2CC:600:E080000</channel><!-- Duna TV -->
 <!-- 0.8W --><channel id="Duna2.hu">1:0:1:7608:2BE:600:E080000:0:0:0:</channel><!-- Duna World / M4 Sport+ -->
 <!-- 0.8W --><channel id="Duna2.hu">1:0:1:7617:2BE:600:E080000:0:0:0:</channel><!-- Duna World / M4 Sport+ -->
 <!-- 0.8W --><channel id="Duna2.hu">1:0:16:2337:AF9:BB:E080000:0:0:0:</channel><!-- Duna World / M4 Sport+ -->
-<!-- 0.8W --><channel id="EpicDrama.hu">1:0:19:1B63:AF7:BB:E080000:0:0:0:</channel><!-- Epic Drama -->
+<!-- 0.8W --><channel id="EpicDrama.hu">1:0:11:7DD:AF2:BB:E080000:0:0:0:</channel><!-- Epic Drama -->
 <!-- 0.8W --><channel id="Eurosport1.hu">1:0:1:4A3:3:1:E080000:0:0:0:</channel><!-- Eurosport 1 -->
 <!-- 0.8W --><channel id="Eurosport1.hu">1:0:19:7DF:AF2:BB:E080000:0:0:0:</channel><!-- Eurosport 1 -->
 <!-- 0.8W --><channel id="Eurosport2.hu">1:0:1:A1E:5:1:E080000:0:0:0:</channel><!-- Eurosport 2 -->
@@ -5685,14 +5684,14 @@
 <!-- 0.8W --><channel id="FilmMania.hu">1:0:1:76CF:2C0:600:E080000:0:0:0:</channel><!-- Film Mania -->
 <!-- 0.8W --><channel id="FilmPlus.hu">1:0:1:75FB:2BE:600:E080000:0:0:0:</channel><!-- Film+ -->
 <!-- 0.8W --><channel id="FilmPlus.hu">1:0:1:760D:2BE:600:E080000:0:0:0:</channel><!-- Film+ -->
-<!-- 0.8W --><channel id="FilmPlus.hu">1:0:19:767D:2BF:600:E080000:0:0:0:</channel><!-- Film+ -->
+<!-- 0.8W --><channel id="FilmPlus.hu">1:0:19:7A4F:2CB:600:E080000:0:0:0:</channel><!-- Film+ -->
 <!-- 0.8W --><channel id="FishingHunting.hu">1:0:1:596:C:1:E080000:0:0:0:</channel><!-- Fishing and Hunting -->
 <!-- 0.8W --><channel id="Galaxy.hu">1:0:1:A96:3:1:E080000:0:0:0:</channel><!-- Galaxy4  -->
 <!-- 0.8W --><channel id="HBO.hu">1:0:1:7595:2BD:600:E080000:0:0:0:</channel><!-- HBO -->
 <!-- 0.8W --><channel id="HBO.hu">1:0:1:A64:5:1:E080000:0:0:0:</channel><!-- HBO -->
 <!-- 0.8W --><channel id="HBO.hu">1:0:19:76C3:2C0:600:E080000:0:0:0:</channel><!-- HBO -->
 <!-- 0.8W --><channel id="HBO.hu">1:0:19:791D:2C6:600:E080000:0:0:0:</channel><!-- HBO -->
-<!-- 0.8W --><channel id="HBO.hu">1:0:19:7E1:AF2:BB:E080000:0:0:0:</channel><!-- HBO -->
+<!-- 0.8W --><channel id="HBO.hu">1:0:19:7737:2C1:600:E080000:0:0:0:</channel><!-- HBO -->
 <!-- 0.8W --><channel id="HBO2.hu">1:0:1:77F1:2C3:600:E080000:0:0:0:</channel><!-- HBO2 -->
 <!-- 0.8W --><channel id="HBO2.hu">1:0:1:A46:5:1:E080000:0:0:0:</channel><!-- HBO2 -->
 <!-- 0.8W --><channel id="HBO2.hu">1:0:19:FB0:AF4:BB:E080000:0:0:0:</channel><!-- HBO2 -->
@@ -5705,7 +5704,7 @@
 <!-- 0.8W --><channel id="HISTORY.hu">1:0:1:40A:7:1:E080000:0:0:0:</channel><!-- History Channel  -->
 <!-- 0.8W --><channel id="HISTORY.hu">1:0:1:780E:2C3:600:E080000:0:0:0:</channel><!-- History Channel  -->
 <!-- 0.8W --><channel id="HISTORY.hu">1:0:1:780F:2C3:600:E080000:0:0:0:</channel><!-- History Channel  -->
-<!-- 0.8W --><channel id="HISTORY.hu">1:0:1:7811:2C3:600:E080000:0:0:0:</channel><!-- History Channel  -->
+<!-- 0.8W --><channel id="HISTORY.hu">1:0:19:7AAB:2CC:600:E080000:0:0:0:</channel><!-- History Channel  -->
 <!-- 0.8W --><channel id="History.ro">1:0:1:759E:2BD:600:E080000:0:0:0:</channel><!-- History Channel  -->
 <!-- 0.8W --><channel id="HistoryEurope.eu">1:0:19:106A:29:46:E080000:0:0:0:</channel><!-- History Channel  -->
 <!-- 0.8W --><channel id="HistoryEurope.eu">1:0:19:106E:29:46:E080000:0:0:0:</channel><!-- History Channel  -->
@@ -5772,7 +5771,7 @@
 <!-- 0.8W --><channel id="NatGeo.hu">1:0:19:7E2:AF2:BB:E080000:0:0:0:</channel><!-- National Geographic  -->
 <!-- 0.8W --><channel id="NatGeoWild.eu">1:0:19:7666:2BF:600:E080000:0:0:0:</channel><!-- Nat Geo Wild -->
 <!-- 0.8W --><channel id="NatGeoWild.hu">1:0:1:1018:3:1:E080000:0:0:0:</channel><!-- Nat Geo Wild -->
-<!-- 0.8W --><channel id="NatGeoWild.hu">1:0:1:1018:3:1:E082F62:0:0:0:</channel><!-- Nat Geo Wild -->
+<!-- 0.8W --><channel id="NatGeoWild.hu">1:0:19:760A:2BE:600:E080000:0:0:0:</channel><!-- Nat Geo Wild -->
 <!-- 0.8W --><channel id="NatGeoWild.hu">1:0:1:77F7:2C3:600:E080000:0:0:0:</channel><!-- Nat Geo Wild -->
 <!-- 0.8W --><channel id="Nickelodeon.hu">1:0:1:1F9:1B:2C0:E080000:0:0:0:</channel><!-- Nickelodeon  -->
 <!-- 0.8W --><channel id="Nickelodeon.hu">1:0:1:77A9:2C2:600:E080000:0:0:0:</channel><!-- Nickelodeon  -->
@@ -5808,11 +5807,11 @@
 <!-- 0.8W --><channel id="RTLHarom.hu">1:0:1:79ED:2C8:600:E080000:0:0:0:</channel><!-- RTL Harom -->
 <!-- 0.8W --><channel id="RTLHarom.hu">1:0:1:79F2:2C8:600:E080000:0:0:0:</channel><!-- RTL Harom -->
 <!-- 0.8W --><channel id="RTLHarom.hu">1:0:1:79F9:2C8:600:E080000:0:0:0:</channel><!-- RTL Harom -->
-<!-- 0.8W --><channel id="RTLHarom.hu">1:0:19:791B:2C6:600:E080000:0:0:0:</channel><!-- RTL Harom -->
+<!-- 0.8W --><channel id="RTLHarom.hu">1:0:19:7735:2C1:600:E080000:0:0:0:</channel><!-- RTL Harom -->
 <!-- 0.8W --><channel id="RTLKetto.hu">1:0:1:79EC:2C8:600:E080000:0:0:0:</channel><!-- RTL KETTŐ -->
 <!-- 0.8W --><channel id="RTLKetto.hu">1:0:1:79F1:2C8:600:E080000:0:0:0:</channel><!-- RTL KETTŐ -->
 <!-- 0.8W --><channel id="RTLKetto.hu">1:0:1:79F6:2C8:600:E080000:0:0:0:</channel><!-- RTL KETTŐ -->
-<!-- 0.8W --><channel id="RTLKetto.hu">1:0:19:7676:2BF:600:E080000:0:0:0:</channel><!-- RTL KETTŐ -->
+<!-- 0.8W --><channel id="RTLKetto.hu">1:0:19:7733:2C1:600:E080000:0:0:0:</channel><!-- RTL KETTŐ -->
 <!-- 0.8W --><channel id="SlagerTV.hu">1:0:1:100E:3:1:E080000:0:0:0:</channel><!-- Magyar Slager TV -->
 <!-- 0.8W --><channel id="SlagerTV.hu">1:0:1:B22:C:1:E080000:0:0:0:</channel><!-- Slager TV -->
 <!-- 0.8W --><channel id="SlagerTV.hu">1:0:16:2722:AFA:BB:E080000:0:0:0:</channel><!-- Slager TV -->
@@ -5859,6 +5858,7 @@
 <!-- 0.8W --><channel id="tv2.hu">1:0:1:7602:2BE:600:E080000:0:0:0:</channel><!-- TV2 -->
 <!-- 0.8W --><channel id="tv2.hu">1:0:1:FBE:D:1:E080000:0:0:0:</channel><!-- TV2 -->
 <!-- 0.8W --><channel id="tv2.hu">1:0:19:772F:2C1:600:E080000:0:0:0:</channel><!-- TV2 -->
+<!-- 0.8W --><channel id="tv2klub.hu">1:0:1:78BA:2C5:600:E080000:0:0:0:</channel><!-- TV2 -->
 <!-- 0.8W --><channel id="TV2Comedy.hu">1:0:1:45F1:6FE:B4DC:E080000:0:0:0:</channel><!-- TV2 Comedy -->
 <!-- 0.8W --><channel id="TV2Comedy.hu">1:0:1:798D:2C7:600:E080000:0:0:0:</channel><!-- TV2 Comedy -->
 <!-- 0.8W --><channel id="TV2Comedy.hu">1:0:1:7992:2C7:600:E080000:0:0:0:</channel><!-- TV2 Comedy -->
@@ -5946,7 +5946,7 @@
 <!-- 23.5E --><channel id="HistoryEurope.eu">1:0:19:3C36:C90:3:EB0000:0:0:0:</channel><!-- History Channel  -->
 <!-- 23.5E --><channel id="IzauraTV.hu">1:0:16:3AA3:C84:3:EB0000:0:0:0:</channel><!-- Izaura TV -->
 <!-- 23.5E --><channel id="JimJam.hu">1:0:16:3C37:C90:3:EB0000:0:0:0:</channel><!-- Jim Jam  -->
-<!-- 23.5E --><channel id="LoveNature.hu">1:0:19:30F:C94:3:EB0000:0:0:0:</channel><!-- Love Nature -->
+<!-- 23.5E --><channel id="LoveNature.hu">1:0:19:7734:2C1:600:E080000:0:0:0:</channel><!-- Love Nature -->
 <!-- 23.5E --><channel id="m1.hu">1:0:1:4EF2:C8B:3:EB0000:0:0:0:</channel><!-- m1 -->
 <!-- 23.5E --><channel id="m1.hu">1:0:19:3A9A:C84:3:EB0000:0:0:0:</channel><!-- m1 -->
 <!-- 23.5E --><channel id="m2.hu">1:0:1:4EF3:C8B:3:EB0000:0:0:0:</channel><!-- m2 -->
@@ -6194,10 +6194,10 @@
 <!-- Cable --><channel id="JimJam.hu">1:0:1:1A3:EA:1:FFFF0000:0:0:0:</channel><!-- Jim Jam  -->
 <!-- Cable --><channel id="m1.hu">1:0:1:232:CD:1:FFFF0000:0:0:0:</channel><!-- m1 -->
 <!-- Cable --><channel id="m2.hu">1:0:1:233:CF:1:FFFF0000:0:0:0:</channel><!-- m2 -->
-<!-- Cable --><channel id="M4Sport.hu">1:0:1:252:CD:1:FFFF0000:0:0:0:</channel><!-- M4 Sport -->
+<!-- Cable --><channel id="M4Sport.hu">1:0:19:7AB9:2CC:600:E080000:0:0:0:</channel><!-- M4 Sport -->
 <!-- Cable --><channel id="m5.hu">1:0:1:231:CD:1:FFFF0000:0:0:0:</channel><!-- m5 -->
 <!-- Cable --><channel id="MagyarATV.hu">1:0:1:253:CF:1:FFFF0000:0:0:0:</channel><!-- ATV -->
-<!-- Cable --><channel id="Mezzo.en">1:0:1:3AD:41:36:FFFF0000:0:0:0:</channel><!-- Mezzo TV -->
+<!-- Cable --><channel id="Mezzo.en">1:0:16:7A61:2CB:600:E080000:0:0:0:</channel><!-- Mezzo TV -->
 <!-- Cable --><channel id="MezzoLiveHD.fr">1:0:1:1AFC:B54:1:FFFF0000:0:0:0:</channel><!-- Mezzo Live HD -->
 <!-- Cable --><channel id="Minimax.hu">1:0:1:223:CD:1:FFFF0000:0:0:0:</channel><!-- Minimax -->
 <!-- Cable --><channel id="MTVEuropean.hu">1:0:1:1B4:EF:1:FFFF0000:0:0:0:</channel><!-- MTV Europe -->
@@ -6223,7 +6223,7 @@
 <!-- DVB-T --><channel id="AMC.hu">1:0:1:197:4:22C7:EEEE0000:0:0:0:</channel><!-- AMC -->
 <!-- DVB-T --><channel id="AnimalPlanet.hu">1:0:1:1F9:5:22C7:EEEE0000:0:0:0:</channel><!-- Animal Planet -->
 <!-- DVB-T --><channel id="ApostolTV.hu">1:0:1:206:5:22C7:EEEE0000:0:0:0:</channel><!-- Apostol TV -->
-<!-- DVB-T --><channel id="Arena4.hu">1:0:1:13B:3:22C7:EEEE0000:0:0:0:</channel><!-- Arena 4 -->
+<!-- DVB-T --><channel id="Arena4.hu">1:0:19:75A1:2BD:600:E080000:0:0:0:</channel><!-- Arena 4 -->
 <!-- DVB-T --><channel id="AXN.hu">1:0:1:12C:3:22C7:EEEE0000:0:0:0:</channel><!-- AXN -->
 <!-- DVB-T --><channel id="BabyTV.hu">1:0:1:20B:5:22C7:EEEE0000:0:0:0:</channel><!-- Baby TV  -->
 <!-- DVB-T --><channel id="Brazzers.ero">1:0:1:1F8:5:22C7:EEEE0000:0:0:0:</channel><!-- Brazzers TV -->
@@ -6325,7 +6325,7 @@
 <!-- Cable --><channel id="Eurosport1.hu">1:0:11:519:D:601:FFFF0000:0:0:0:</channel><!-- EUROSPORT 1 HD -->
 <!-- Cable --><channel id="Eurosport2.hu">1:0:19:643:10:601:FFFF0000:0:0:0:</channel><!-- EUROSPORT 2 HD -->
 <!-- Cable --><channel id="EWTNBonumTV.hu">1:0:1:57C:E:601:FFFF0000:0:0:0:</channel><!-- BONUM TV -->
-<!-- Cable --><channel id="ExtremeSports.eu">1:0:1:2BE:7:601:FFFF0000:0:0:0:</channel><!-- EXTREME SPORT CHANNEL -->
+<!-- Cable --><channel id="ExtremeSports.eu">1:0:16:7A62:2CB:600:E080000:0:0:0:</channel><!-- EXTREME SPORT CHANNEL -->
 <!-- Cable --><channel id="FEM3.hu">1:0:1:89C:16:601:FFFF0000:0:0:0:</channel><!-- FEM 3 -->
 <!-- Cable --><channel id="FightBox.hu">1:0:1:9C5:19:601:FFFF0000:0:0:0:</channel><!-- FIGHTBOX -->
 <!-- Cable --><channel id="Film4.hu">1:0:1:900:17:601:FFFF0000:0:0:0:</channel><!-- FILM 4 -->
@@ -7447,7 +7447,7 @@
 <!-- 0.8W --><channel id="ClubMTV.eu">1:0:1:207:1B:2C0:E080000:0:0:0:</channel><!-- Club MTV -->
 <!-- 0.8W --><channel id="CMusic.eu">1:0:1:7988:2C7:600:E080000:0:0:0:</channel><!-- C-Music -->
 <!-- 0.8W --><channel id="Crime+Investigation.eu">1:0:1:7810:2C3:600:E080000:0:0:0:</channel><!-- Crime and Investigati -->
-<!-- 0.8W --><channel id="Fightbox.eu">1:0:16:759B:2BD:600:E080000:0:0:0:</channel><!-- Fightbox -->
+<!-- 0.8W --><channel id="Fightbox.eu">1:0:16:7A5A:2CB:600:E080000:0:0:0:</channel><!-- Fightbox -->
 <!-- 0.8W --><channel id="Fightbox.eu">1:0:16:7E5:AF2:BB:E080000:0:0:0:</channel><!-- Fightbox -->
 <!-- 0.8W --><channel id="HistoryEurope.eu">1:0:19:106F:29:46:E080000:0:0:0:</channel><!-- History Channel  -->
 <!-- 0.8W --><channel id="LoveNature.eu">1:0:19:7927:2C6:600:E080000:0:0:0:</channel><!-- Love Nature -->
@@ -7588,7 +7588,7 @@
 <!-- Misc --><channel id="IranIntl.uk">1:0:19:201:765C:7E:462C28:0:0:0:</channel><!-- Iran International -->
 <!-- 0.8W --><channel id="AlJazeera.nws">1:0:1:B60:14:46:E080000:0:0:0:</channel><!-- Al Jazeera English -->
 <!-- 0.8W --><channel id="BBCWorldNews.nws">1:0:16:1EE8:3:46:E080000:0:0:0:</channel><!-- BBC World News -->
-<!-- 0.8W --><channel id="Bloomberg.nws">1:0:16:1C5E:A:46:E080000:0:0:0:</channel><!-- Bloomberg -->
+<!-- 0.8W --><channel id="Bloomberg.nws">1:0:16:7AAF:2CC:600:E080000:0:0:0:</channel><!-- Bloomberg -->
 <!-- 0.8W --><channel id="Bloomberg.nws">1:0:16:772D:2C1:600:E080000:0:0:0:</channel><!-- Bloomberg -->
 <!-- 0.8W --><channel id="CGTN.cn">1:0:19:207:14:46:E080000:0:0:0:</channel><!-- CGTN -->
 <!-- 0.8W --><channel id="CGTNDoco.cn">1:0:19:7ED:14:46:E080000:0:0:0:</channel><!-- CGTN Doco -->
@@ -10282,7 +10282,7 @@
 <!-- 1.9E --><channel id="CineStarTV2.sr">1:0:1:1DD:B:1:130000:0:0:0:</channel><!-- Cinestar TV2 -->
 <!-- 1.9E --><channel id="CineStarTVAction.sr">1:0:1:1AF:A:2:130000:0:0:0:</channel><!-- Cinestar A & T SRB  -->
 <!-- 1.9E --><channel id="DiscoveryScience.rs">1:0:1:1DB:B:1:130000:0:0:0:</channel><!-- Discovery Science -->
-<!-- 1.9E --><channel id="Docubox.eu">1:0:1:1B4:A:2:130000:0:0:0:</channel><!-- Docubox -->
+<!-- 1.9E --><channel id="Docubox.eu">1:0:16:7A58:2CB:600:E080000:0:0:0:</channel><!-- Docubox -->
 <!-- 1.9E --><channel id="Docubox.eu">1:0:1:4D:C:3:130000:0:0:0:</channel><!-- Docubox -->
 <!-- 1.9E --><channel id="Euronews.nws">1:0:1:4F:C:3:130000:0:0:0:</channel><!-- Euronews -->
 <!-- 1.9E --><channel id="Eurosport1.rs">1:0:1:D2:12:3:130000:0:0:0:</channel><!-- Eurosport 1 -->
