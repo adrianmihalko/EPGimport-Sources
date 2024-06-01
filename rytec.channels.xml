@@ -265,7 +265,6 @@
 <!-- Cable --><channel id="Eurosport1.fr">1:0:1:201:5:1:FFFF0000:0:0:0:</channel><!-- Eurosport 1 -->
 <!-- Cable --><channel id="Eurosport2.be">1:0:19:CC:2:1:FFFF0000:0:0:0:</channel><!-- Eurosport 2 -->
 <!-- Cable --><channel id="ExtremeSports.eu">1:0:1:66E:10:1:FFFF0000:0:0:0:</channel><!-- Extreme Sports -->
-<!-- Cable --><channel id="FashionTV.eu">1:0:16:7AB0:2CC:600:E080000:0:0:0:</channel><!-- Fashion TV -->
 <!-- Cable --><channel id="FocusTV.be">1:0:19:649:10:1:FFFF0000:0:0:0:</channel><!-- Focus TV -->
 <!-- Cable --><channel id="FOX.be">1:0:19:327:8:1:FFFF0000:0:0:0:</channel><!-- FOX -->
 <!-- Cable --><channel id="France2.fr">1:0:19:909:17:1:FFFF0000:0:0:0:</channel><!-- France 2 -->
@@ -7597,7 +7596,7 @@
 <!-- 0.8W --><channel id="CNN.nws">1:0:1:79E3:2C8:600:E080000:0:0:0:</channel><!-- CNN -->
 <!-- 0.8W --><channel id="CNN.nws">1:0:16:1EE3:19:46:E080000:0:0:0:</channel><!-- CNN -->
 <!-- 0.8W --><channel id="DeutscheWelleEN.de">1:0:16:1C55:A:46:E080000:0:0:0:</channel><!-- Deutsche Welle  - EN -->
-<!-- 0.8W --><channel id="FashionTV.eu">1:0:1:BE9:AF3:BB:E080000:0:0:0:</channel><!-- Fashion TV -->
+<!-- 0.8W --><channel id="FashionTV.eu">1:0:16:7AB0:2CC:600:E080000:0:0:0:</channel><!-- Fashion TV -->
 <!-- 0.8W --><channel id="FashionTV.eu">1:0:1:C4E:5:1:E080000:0:0:0:</channel><!-- Fashion TV -->
 <!-- 0.8W --><channel id="FashionTV.eu">1:0:16:772E:2C1:600:E080000:0:0:0:</channel><!-- Fashion TV -->
 <!-- 0.8W --><channel id="SkyNewsInt.eu">1:0:1:EFD:14:46:E080000:0:0:0:</channel><!-- Sky News International -->
