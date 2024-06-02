@@ -1929,7 +1929,6 @@
 <!-- 0.8W --><channel id="AXNBlack.cz">1:0:1:2B08:B:1111:E080000:0:0:0:</channel><!-- AXN Black -->
 <!-- 0.8W --><channel id="AXNWhite.cz">1:0:1:2AFA:B:1111:E080000:0:0:0:</channel><!-- AXN White -->
 <!-- 0.8W --><channel id="BarrandovPlus.cz">1:0:1:FAE:AF4:BB:E080000:0:0:0:</channel><!-- Barrandov Plus -->
-<!-- 0.8W --><channel id="CartoonNetwork.cz">1:0:1:797E:2C7:600:E080000:0:0:0:</channel><!-- Cartoon Network -->
 <!-- 0.8W --><channel id="Cinemax.cz">1:0:1:77F5:2C3:600:E080000:0:0:0:</channel><!-- Cinemax -->
 <!-- 0.8W --><channel id="Cinemax.cz">1:0:1:BC6:AF3:BB:E080000:0:0:0:</channel><!-- Cinemax -->
 <!-- 0.8W --><channel id="Cinemax2.cz">1:0:1:BC7:AF3:BB:E080000:0:0:0:</channel><!-- Cinemax2 -->
@@ -9554,7 +9553,6 @@
 <!-- 0.8W --><channel id="AXNBlack.ro">1:0:1:2AFB:B:1111:E080000:0:0:0:</channel><!-- AXN Black -->
 <!-- 0.8W --><channel id="AXNBlack.ro">1:0:1:2B08:B:1111:E080000:0:0:0:</channel><!-- AXN Black -->
 <!-- 0.8W --><channel id="AXNWhite.ro">1:0:1:2AFA:B:1111:E080000:0:0:0:</channel><!-- AXN White -->
-<!-- 0.8W --><channel id="Cartoonito.ro">1:0:1:77F6:2C3:600:E080000:0:0:0:</channel><!-- Cartoonito -->
 <!-- 0.8W --><channel id="CartoonNetwork.ro">1:0:1:550:4:1:E080000:0:0:0:</channel><!-- Cartoon Network -->
 <!-- 0.8W --><channel id="CBSReality.ro">1:0:1:78B9:2C5:600:E080000:0:0:0:</channel><!-- CBS Reality -->
 <!-- 0.8W --><channel id="CBSReality.ro">1:0:1:7985:2C7:600:E080000:0:0:0:</channel><!-- CBS Reality -->
